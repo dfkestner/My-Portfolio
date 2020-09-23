@@ -9,7 +9,6 @@ I also wanted to incorporate multiple design elements to make the site aesthetic
 [Link to Repository](https://github.com/dfkestner/Responsive-Portfolio)
 
 ## Usage Instructions
-![Screenshot](/assets/images/Screen shot.png)
 From the [Home Page](https://dfkestner.github.io/Responsive-Portfolio/), use the Navbar toggler or Navbar links (depending on your screen size) to navigate to the Portfolio page, or the Contact page. 
 
 ## Installation Instructions
