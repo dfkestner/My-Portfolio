@@ -54,3 +54,7 @@
     color: darkslategray;
     text-decoration: underline;
   }
+
+  .card-group {
+    display: flex;
+  }
