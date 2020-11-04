@@ -5,7 +5,7 @@ For this project, I wanted to utilize Bootstrap and CSS to create a mobile-respo
 I also wanted to incorporate multiple design elements to make the site aesthetically pleasing and easy to navigate.
 
 ## Links
-- [Link to My Portfolio](https://dfkestner.github.io/Responsive-Portfolio/)
+- [Link to My Portfolio](https://dfkestner.github.io/My-Portfolio/portfolio.html)
 - [Link to Repository](https://github.com/dfkestner/Responsive-Portfolio)
 
 ## Usage Instructions
